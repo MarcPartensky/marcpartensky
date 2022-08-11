@@ -14,8 +14,21 @@
         <td align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=marcpartensky&count_private=true&show_icons=true&hide=stars" alt="stats card">
         </td>
+        <p>I spend most of my time tweaking my arch linux environment and my vps to have the best possible workflow and a great experience overall.
+        That explains the number of yearly commits.</p>
+        <ul>
+            <li>Download my dotfiles on <a href="https://github.com/marcpartensky/dotfiles">github.com/marcpartensky/dotfiles</a></li>
+            <li>Download my neovim config on <a href="https://github.com/marcpartensky/nvim">github.com/marcpartensky/nvim</a></li>
+            <li>Try out my arch linux environment on <a href="https://github.com/marcpartensky/arch">github.com/marcpartensky/arch</a></li>
+            <li>Try out my docker configs for self hosting <a href="https://github.com/marcpartensky/docker">github.com/marcpartensky/docker</a></li>
+            <li>Check out my website on <a href="https://github.com/marcpartensky/website">github.com/marcpartensky/website</a></li>
+            <li>Check out my discord bot on <a href="https://github.com/marcpartensky/discord-bot">github.com/marcpartensky/discord-bot</a></li>
+            <li>Check out my fourier epicycloids on <a href="https://github.com/marcpartensky/fourier">github.com/marcpartensky/fourier</a></li>
+        </ul>
     </tr>
 </table>
+
+
 
 <!--
 | ![Valentin's GitHub stats][stats_card_link] | ![Top Languages][languages_card_link] |
