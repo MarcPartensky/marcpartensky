@@ -6,7 +6,7 @@
              <ul>
                 <li>👨 I'm Marc</li>
                 <li>🇫🇷 I'm a work-study student in France</li>
-                <li>[![arch](https://cdn3.emoji.gg/emojis/4744_arch.png)](https://emoji.gg/emoji/4744_arch) I'a arch user (btw)</li>
+                <li><a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="64px" height="64px" alt="arch"></a> I'm an arch user (btw)</li>
                 <li>💻 I'm mainly a Python/JS programmer</li>
                 <li>📫 How to reach me: pro@marcpartensky.com</li>
             </ul>
