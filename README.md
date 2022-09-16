@@ -7,7 +7,7 @@
                 <li>👨 I'm Marc</li>
                 <li>🇫🇷 I'm a work-study student in France</li>
                 <li>💻 I'm mainly a Python/JS programmer</li>
-                <li>💻 I love docker</li>
+                <li>🐳 I love docker</li>
             </ul>
         </td>
         <td align="center">
