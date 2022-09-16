@@ -11,8 +11,6 @@
             </ul>
         </td>
         <td align="center">
-            But most of all ...
-            <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="64px" height="64px" alt="arch"></a> I'm an arch user (btw)
             <img src="https://github-readme-stats.vercel.app/api?username=marcpartensky&count_private=true&show_icons=true&hide=stars" alt="stats card">
         </td>
         <p>I spend most of my time tweaking my arch linux environment and my vps to have the best possible workflow and a great experience overall.
@@ -26,6 +24,9 @@
             <li>Check out my discord bot on <a href="https://github.com/marcpartensky/discord-bot">github.com/marcpartensky/discord-bot</a></li>
             <li>Check out my fourier epicycloids on <a href="https://github.com/marcpartensky/fourier">github.com/marcpartensky/fourier</a></li>
         </ul>
+        But most of all ...
+        <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="64px" height="64px" alt="arch"></a> I'm an arch user (btw)
+        <img src="https://cdn.discordapp.com/attachments/809914059981586462/1020398949812674631/unknown.png"></img>
     </tr>
 </table>
 
