@@ -6,7 +6,7 @@ Marc Partensky
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/marc-partensky"><img src="https://img.shields.io/badge/LinkedIn-marc--partensky-0077B5?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/marcpartensky"><img src="https://img.shields.io/badge/GitHub-marcpartensky-181717?style=flat&logo=github"/></a>
+  <a href="https://marcpartensky.com"><img src="https://img.shields.io/badge/Website-marcpartensky.com-black?style=flat&logo=github"/></a>
 </p>
 
 
@@ -30,7 +30,7 @@ Mathematics: Probability Theory · Linear Time Series · Statistics · Optimizat
 Tech Stack
 
 
-Python  ·  C#  ·  SQL  ·  JavaScript / React  ·  Bash
+Python  ·  C#  ·  SQL  ·  JavaScript / React  ·  Bash  ·  Nix
 Pandas  ·  NumPy  ·  SciPy  ·  PyTorch  ·  Streamlit
 PostgreSQL  ·  MongoDB  ·  AWS  ·  Docker  ·  Kubernetes
 Tableau  ·  PowerBI  ·  Dataiku
@@ -68,7 +68,15 @@ Selected Projects
 
 
 📐 fourier
-Fourier series epicycloids — math visualization
+Fourier series decomposition & epicycloid visualization — spectral analysis applied to arbitrary 2D signals
+
+
+⚡ python-games
+Numerical simulation engine built from scratch: physics, particles, chaos equations, Mandelbrot, solar system dynamics
+
+
+❄️ nixos
+Fully declarative, reproducible NixOS environment — deterministic dep management for data science workflows
 
 
 🐳 docker
@@ -76,17 +84,22 @@ Self-hosted infra configs (Kubernetes, Docker Compose)
 
 
 ⚙️ nvim
-Neovim config — because tooling matters
-
-
-🐧 arch
-Full Arch Linux environment (dotfiles, window manager, etc.)
+Neovim config
 
 
 🌐 website
 Personal website
 
 
+
+
+
+🔨 Currently building
+
+
+option-pricer — Black-Scholes closed-form + Monte Carlo simulation in Python, with convergence analysis
+backtest — Event-driven backtesting engine on historical market data
+portfolio-optimizer — Markowitz mean-variance optimization with efficient frontier visualization
 
 
 
@@ -106,5 +119,5 @@ Achievements & Certs
   <img src="https://github-readme-stats.vercel.app/api?username=marcpartensky&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="GitHub stats"/>
 </p>
 <p align="center">
-  <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="14" height="14"/></a> btw
+  <sub>❄️ nixos, btw</sub>
 </p>
