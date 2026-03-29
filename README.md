@@ -103,10 +103,7 @@ Tableau  ·  PowerBI  ·  Dataiku
 ### Selected Projects
  
  
- 
-| | |
- 
-|---|---|
+
  
 | 📐 [**fourier**](https://github.com/marcpartensky/fourier) | Fourier series decomposition & epicycloid visualization — spectral analysis applied to arbitrary 2D signals |
  
