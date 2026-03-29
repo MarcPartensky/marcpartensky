@@ -1,79 +1,110 @@
-# Hi there 👋
+Marc Partensky
 
-<table align="center">
-    <tr>
-        <td align="left">
-             <ul>
-                <li>👨 I'm Marc</li>
-                <li>🇫🇷 I'm a work-study student in France</li>
-                <li>💻 I'm mainly a Python/JS programmer</li>
-                <li>🐳 I love docker</li>
-            </ul>
-        </td>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=marcpartensky&count_private=true&show_icons=true&hide=stars" alt="stats card">
-        </td>
-        <p>I spend most of my time tweaking my arch linux environment and my vps to have the best possible workflow and a great experience overall.
-        That explains the number of yearly commits.</p>
-        <ul>
-            <li>Download my dotfiles on <a href="https://github.com/marcpartensky/dotfiles">github.com/marcpartensky/dotfiles</a></li>
-            <li>Download my neovim config on <a href="https://github.com/marcpartensky/nvim">github.com/marcpartensky/nvim</a></li>
-            <li>Try out my arch linux environment on <a href="https://github.com/marcpartensky/arch">github.com/marcpartensky/arch</a></li>
-            <li>Try out my docker configs for self hosting <a href="https://github.com/marcpartensky/docker">github.com/marcpartensky/docker</a></li>
-            <li>Check out my website on <a href="https://github.com/marcpartensky/website">github.com/marcpartensky/website</a></li>
-            <li>Check out my discord bot on <a href="https://github.com/marcpartensky/discord-bot">github.com/marcpartensky/discord-bot</a></li>
-            <li>Check out my fourier epicycloids on <a href="https://github.com/marcpartensky/fourier">github.com/marcpartensky/fourier</a></li>
-        </ul>
-    </tr>
-</table>
-But most of all ...
-<hr>
-<a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="15" height="15" alt="arch"></a> I'm an arch user (btw)
-<img src="https://cdn.discordapp.com/attachments/809914059981586462/1020398949812674631/unknown.png"></img>
+<p align="center">
+  <em>Data Science Engineer · Market Finance · Quantitative Methods</em><br>
+  <em>M2 Market Finance @ CNAM · MEng Data Science @ ISEP · ex-BNP Paribas</em>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/marc-partensky"><img src="https://img.shields.io/badge/LinkedIn-marc--partensky-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/marcpartensky"><img src="https://img.shields.io/badge/GitHub-marcpartensky-181717?style=flat&logo=github"/></a>
+</p>
+
+
+I'm an engineer at the intersection of quantitative finance and software engineering — I build the kind of systems that sit between a mathematical model and a production environment.
+
+
+My background spans data engineering at BNP Paribas, a Data Science engineering degree (ISEP), and an ongoing Master 2 in Market Finance (CNAM) covering risk modeling, derivatives, and portfolio theory. I like things that are fast, correct, and well-understood.
 
 
 
-<!--
-| ![Valentin's GitHub stats][stats_card_link] | ![Top Languages][languages_card_link] |
-| ------------- | ------------- |
--->
-<!--
-Common Options:
-    - title_color - Card's title color (hex color)
-    - text_color - Body text color (hex color)
-    - icon_color - Icons color if available (hex color)
-    - border_color - Card's border color (hex color). (Does not apply when hide_border is enabled)
-    - bg_color - Card's background color (hex color) or a gradient in the form of angle,start,end
-    - hide_border - Hides the card's border (boolean)
-    - theme - name of the theme, choose from all available themes (https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
-    - cache_seconds - set the cache header manually (min: 1800, max: 86400)
-    - locale - set the language in the card (e.g. cn, de, es, etc.)
-    - border_radius - Corner rounding on the card_
+Quantitative Skills
 
-Stats Card Options:
-    - hide - Hides the specified items from stats (stars,commits,prs,issues,contribs,..)
-    - hide_title - (boolean)
-    - hide_rank - (boolean) hides the rank and automatically resizes the card width
-    - show_icons - (boolean)
-    - include_all_commits - Count total commits instead of just the current year commits (boolean)
-    - count_private - Count private commits (boolean)
-    - line_height - Sets the line-height between text (number)
-    - custom_title - Sets a custom title for the card
-    - disable_animations - Disables all animations in the card (boolean)
 
-Language Card Options:
-    - hide - Hide the languages specified from the card (Comma-separated values)
-    - hide_title - (boolean)
-    - layout - Switch between two available layouts default & compact
-    - card_width - Set the card's width manually (number)
-    - langs_count - Show more languages on the card, between 1-10, defaults to 5 (number)
-    - exclude_repo - Exclude specified repositories (Comma-separated values)
-    - custom_title - Sets a custom title for the card
+Finance: Market Risk Modeling · Value at Risk (VaR) · Fixed Income · Options & Futures · Portfolio Management · Monte Carlo Methods · Financial Macroeconomics
 
-Repo Card Options:
-    - show_owner - Show the repo's owner name (boolean)
--->
 
-[stats_card_link]: https://github-readme-stats.vercel.app/api?username=marcpartensky&count_private=true&show_icons=true&hide=stars
-[languages_card_link]: https://github-readme-stats.vercel.app/api/top-langs?username=marcpartensky&layout=compact&langs_count=6
-[pin_card_link]: https://github-readme-stats.vercel.app/api/pin/?username=marcpartensky&repo=.dotfiles
+Mathematics: Probability Theory · Linear Time Series · Statistics · Optimization · Linear Algebra · Machine Learning
+
+
+
+Tech Stack
+
+
+Python  ·  C#  ·  SQL  ·  JavaScript / React  ·  Bash
+Pandas  ·  NumPy  ·  SciPy  ·  PyTorch  ·  Streamlit
+PostgreSQL  ·  MongoDB  ·  AWS  ·  Docker  ·  Kubernetes
+Tableau  ·  PowerBI  ·  Dataiku
+
+
+
+
+Experience
+
+
+BNP Paribas – ITGP · Data Analyst & Infrastructure (apprenticeship, 2022–2023)
+
+
+Built ETL pipelines and internal reporting dashboards (Python, Tableau, Dataiku, PostgreSQL)
+Deployed a full-stack app on IBM Cloud (Node.js + PostgreSQL) under IT governance constraints
+
+
+Pickup Services / La Poste · Fullstack Developer (apprenticeship, 2020–2022)
+
+
+Developed ETL tools for dynamic i18n in a React app via MongoDB and C# (ASP.NET Core)
+Worked Scrum, shipped new features on a production-grade parcel simulation system
+
+
+
+Selected Projects
+
+
+
+
+
+
+
+
+
+
+📐 fourier
+Fourier series epicycloids — math visualization
+
+
+🐳 docker
+Self-hosted infra configs (Kubernetes, Docker Compose)
+
+
+⚙️ nvim
+Neovim config — because tooling matters
+
+
+🐧 arch
+Full Arch Linux environment (dotfiles, window manager, etc.)
+
+
+🌐 website
+Personal website
+
+
+
+
+
+Achievements & Certs
+
+
+🏆 Winner – Greencode Hackathon (Dassault Outscale, 2022)
+
+🥈 2nd Place – FRHack (ANFR, 2022)
+
+📜 AWS Cloud Practitioner · Deep Learning Specialization (Coursera)
+
+🗣️ English: fluent (TOEIC 930 · TOEFL 92)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcpartensky&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="GitHub stats"/>
+</p>
+<p align="center">
+  <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="14" height="14"/></a> btw
+</p>
